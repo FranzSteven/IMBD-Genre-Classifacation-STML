@@ -5,7 +5,6 @@ This project focuses on classifying the genre of movies based on their titles an
 ## Project Structure
 
 - **genre_classification.ipynb:** Jupyter Notebook containing the code for data loading, preprocessing, model training, evaluation, and SHAP analysis.
-- **data/**: Directory to store the downloaded dataset from Kaggle.
 - **README.md:** This file.
 
 ## Dataset
